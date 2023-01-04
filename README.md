@@ -1,4 +1,6 @@
 # Python Pandas: Handling and Analyzing Data [Revision]
+> Project Status: completed (subject to slight changes)
+
 A Python Pandas revision nootebok. <br/>
 Practicing concepts, functions and codes. <br/>
 This revision is based on an <a href=”https://cursos.alura.com.br/course/introducao-python-pandas”>Alura Course</a> I took 2 weeks before creating the repository.
