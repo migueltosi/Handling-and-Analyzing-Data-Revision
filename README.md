@@ -3,7 +3,7 @@
 
 A Python Pandas revision nootebok. <br/>
 Practicing concepts, functions and codes. <br/>
-This revision is based on an <a href=”https://cursos.alura.com.br/course/introducao-python-pandas”>Alura Course</a> I took 2 weeks before creating the repository.
+This revision is based on an [Alura Course](https://cursos.alura.com.br/course/introducao-python-pandas) I took 2 weeks before creating the repository.
 <div>
 <hr>
 <p>The project is a Jupyter Notebook file containing topics and codes.<p/>
